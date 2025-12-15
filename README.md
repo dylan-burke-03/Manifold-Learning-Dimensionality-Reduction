@@ -1,1 +1,1 @@
-# Manifold-Learning-Dimensionality-Reduction
+# Unraveling High-Dimensional Data with Manifold Learning
