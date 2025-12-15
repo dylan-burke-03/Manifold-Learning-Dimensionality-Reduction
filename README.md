@@ -1,6 +1,5 @@
 # **Unraveling High-Dimensional Data with Manifold Learning**
----
----
+
 
 This notebook presents a study of **nonlinear dimensionality reduction** and **manifold learning** techniques across both **synthetic datasets** that explicitly satisfy the manifold hypothesis and **real-world datasets** that may only approximately exhibit low-dimensional local structure. We compare classical and modern manifold learning algorithms with respect to:
 
@@ -20,7 +19,6 @@ Each embedding is plotted alongside the **original data** (in 3D when available,
 
 ---
 ## Evaluation Metrics
----
 We evaluate embeddings using **only built-in, rigorously defined metrics**:
 
 - **Trustworthiness** — measures preservation of local neighborhoods from high- to low-dimensional space  
